@@ -1,0 +1,13 @@
+.vscode
+__pycache__
+test.ipynb
+test.py
+outputs
+.DS_Store
+
+# Temp files
+val_tmp_*
+tmp.pkl
+
+# Exec files
+exec/LKH-3.0.6
