@@ -1,5 +1,5 @@
 # Solving the Traveling Salesperson Problem with Precedence Constraints by Deep Reinforcement Learning
-The original code to Christian Löwens, Muhammad Inaam Ashraf, Alexander Gembus, Genesis Cuizon, Jonas K. Falkner, Lars Schmidt-Thieme **"Solving the Traveling Salesperson Problem with Precedence Constraints by Deep Reinforcement Learning"**.
+The original code to Christian Löwens, Inaam Ashraf, Alexander Gembus, Genesis Cuizon, Jonas K. Falkner, Lars Schmidt-Thieme **"Solving the Traveling Salesperson Problem with Precedence Constraints by Deep Reinforcement Learning"**.
 
 The paper is accepted for publication at 45th German Conference on Artificial Intelligence (KI-2022). The preprint can be found [here](https://arxiv.org/abs/2207.01443).
 
@@ -43,7 +43,7 @@ val_size:int=10000              # total validation size
 eval_batch_size:int=100         # validation batch size
 
 run_name:str=None               # model name
-progress_bar=True               # enable/disable progress_bar
+progress_bar:bool=True               # enable/disable progress_bar
 ```
 
 The default number of random precedence contraints for training is `0.33*n_nodes`. The trained model is saved in the folder `outputs`. 
