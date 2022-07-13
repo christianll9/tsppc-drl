@@ -43,7 +43,7 @@ val_size:int=10000              # total validation size
 eval_batch_size:int=100         # validation batch size
 
 run_name:str=None               # model name
-progress_bar:bool=True               # enable/disable progress_bar
+progress_bar:bool=True          # enable/disable progress_bar
 ```
 
 The default number of random precedence contraints for training is `0.33*n_nodes`. The trained model is saved in the folder `outputs`. 
