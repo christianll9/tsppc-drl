@@ -1,7 +1,7 @@
 # Solving the Traveling Salesperson Problem with Precedence Constraints by Deep Reinforcement Learning
 The original code to Christian Löwens, Inaam Ashraf, Alexander Gembus, Genesis Cuizon, Jonas K. Falkner, Lars Schmidt-Thieme **"Solving the Traveling Salesperson Problem with Precedence Constraints by Deep Reinforcement Learning"**.
 
-The paper is accepted for [publication](https://doi.org/10.1007/978-3-031-15791-2_14) at 45th German Conference on Artificial Intelligence (KI-2022). The preprint version can be found on [arXiv](https://arxiv.org/abs/2207.01443).
+The paper is [published](https://doi.org/10.1007/978-3-031-15791-2_14) at 45th German Conference on Artificial Intelligence (KI-2022). The preprint version can be found on [arXiv](https://arxiv.org/abs/2207.01443).
 
 <p align="center">
 <img src="animation.gif" alt="drawing" width="750"/>
